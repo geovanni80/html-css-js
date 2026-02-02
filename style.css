@@ -1,0 +1,15 @@
+html {
+  background-color: rgb(105, 89, 163);
+  color: aqua;
+  font-size: 20px;
+}
+
+ul {
+  background: red;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+li {
+  margin-left: 20px;
+}
